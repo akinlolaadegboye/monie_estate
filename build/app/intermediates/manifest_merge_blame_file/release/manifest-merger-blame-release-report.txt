@@ -1,0 +1,245 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.monie_estate"
+4    android:versionCode="42"
+5    android:versionName="2.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:5:5-78
+12-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:6:5-80
+13-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:6:22-78
+14    <!-- Include required permissions for Google Maps API to run. -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:5-79
+15-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:23:22-76
+16
+17    <uses-feature
+17-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
+18        android:glEsVersion="0x00020000"
+18-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
+19        android:required="true" />
+19-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
+20
+21    <queries>
+21-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:30:5-34:15
+22
+23        <!-- Needs to be explicitly declared on Android R+ -->
+24        <package android:name="com.google.android.apps.maps" />
+24-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+24-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
+25    </queries>
+26
+27    <permission
+27-->[androidx.core:core:1.13.1] /Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+28        android:name="com.monie_estate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.13.1] /Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.13.1] /Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="com.monie_estate.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.13.1] /Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.13.1] /Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+32
+33    <application
+34        android:name="android.app.Application"
+34-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:10:9-42
+35        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+35-->[androidx.core:core:1.13.1] /Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+36        android:enableOnBackInvokedCallback="true"
+36-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:12:9-51
+37        android:icon="@mipmap/ic_launcher"
+37-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:13:9-43
+38        android:label="MonieEstate"
+38-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:9:9-36
+39        android:usesCleartextTraffic="true" >
+39-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:11:9-44
+40        <meta-data
+40-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:15:8-17:70
+41            android:name="com.google.android.geo.API_KEY"
+41-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:16:12-57
+42            android:value="AIzaSyCFoJsq5tBR_VXYPf88vkbg0QRl9xctGFM" />
+42-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:17:12-67
+43
+44        <activity
+44-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:19:9-44:20
+45            android:name="com.monie_estate.MainActivity"
+45-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:20:13-41
+46            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+46-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:25:13-163
+47            android:exported="true"
+47-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:21:13-36
+48            android:hardwareAccelerated="true"
+48-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:26:13-47
+49            android:launchMode="singleTop"
+49-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:22:13-43
+50            android:screenOrientation="portrait"
+50-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:24:13-49
+51            android:theme="@style/LaunchTheme"
+51-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:23:13-47
+52            android:windowSoftInputMode="adjustResize" >
+52-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:27:13-55
+53
+54            <!--
+55                 Specifies an Android theme to apply to this Activity as soon as
+56                 the Android process has started. This theme is visible to the user
+57                 while the Flutter UI initializes. After that, this theme continues
+58                 to determine the Window background behind the Flutter UI.
+59            -->
+60
+61            <meta-data
+61-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:33:13-103
+62                android:name="com.facebook.sdk.ApplicationId"
+62-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:33:24-69
+63                android:value="209801932143050" />
+63-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:33:70-101
+64            <meta-data
+64-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:34:13-118
+65                android:name="com.facebook.sdk.ClientToken"
+65-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:34:24-67
+66                android:value="8ddc7cc60716109645e4c5851fcf5f90" />
+66-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:34:68-116
+67            <meta-data
+67-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:36:13-39:17
+68                android:name="io.flutter.embedding.android.NormalTheme"
+68-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:37:15-70
+69                android:resource="@style/NormalTheme" />
+69-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:38:15-52
+70
+71            <intent-filter>
+71-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:40:13-43:29
+72                <action android:name="android.intent.action.MAIN" />
+72-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:41:17-68
+72-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:41:25-66
+73
+74                <category android:name="android.intent.category.LAUNCHER" />
+74-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:42:17-76
+74-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:42:27-74
+75            </intent-filter>
+76        </activity>
+77        <!--
+78             Don't delete the meta-data below.
+79             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+80        -->
+81        <meta-data
+81-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:47:9-49:33
+82            android:name="flutterEmbedding"
+82-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:48:13-44
+83            android:value="2" />
+83-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:49:13-30
+84        <meta-data
+84-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:47:9-49:33
+85            android:name="flutterEmbedding"
+85-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:48:13-44
+86            android:value="2" />
+86-->/Users/aoamacsplace/StudioProjects/monie_estate/android/app/src/main/AndroidManifest.xml:49:13-30
+87
+88        <!-- Needs to be explicitly declared on P+ -->
+89        <uses-library
+89-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
+90            android:name="org.apache.http.legacy"
+90-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
+91            android:required="false" />
+91-->[com.google.android.gms:play-services-maps:18.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c8b9e064ff11068ebbc8dbd9e3e85cba/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
+92
+93        <activity
+93-->[com.google.android.gms:play-services-base:18.0.1] /Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+94            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+94-->[com.google.android.gms:play-services-base:18.0.1] /Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+95            android:exported="false"
+95-->[com.google.android.gms:play-services-base:18.0.1] /Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+96            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+96-->[com.google.android.gms:play-services-base:18.0.1] /Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+97
+98        <meta-data
+98-->[com.google.android.gms:play-services-basement:18.0.0] /Users/aoamacsplace/.gradle/caches/transforms-3/a4a8df01e9aec83dca51d72da9d06238/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+99            android:name="com.google.android.gms.version"
+99-->[com.google.android.gms:play-services-basement:18.0.0] /Users/aoamacsplace/.gradle/caches/transforms-3/a4a8df01e9aec83dca51d72da9d06238/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+100            android:value="@integer/google_play_services_version" />
+100-->[com.google.android.gms:play-services-basement:18.0.0] /Users/aoamacsplace/.gradle/caches/transforms-3/a4a8df01e9aec83dca51d72da9d06238/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+101
+102        <uses-library
+102-->[androidx.window:window:1.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/31b0ccf7849fc3d3da9354fb1b61c6ef/transformed/jetified-window-1.2.0/AndroidManifest.xml:23:9-25:40
+103            android:name="androidx.window.extensions"
+103-->[androidx.window:window:1.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/31b0ccf7849fc3d3da9354fb1b61c6ef/transformed/jetified-window-1.2.0/AndroidManifest.xml:24:13-54
+104            android:required="false" />
+104-->[androidx.window:window:1.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/31b0ccf7849fc3d3da9354fb1b61c6ef/transformed/jetified-window-1.2.0/AndroidManifest.xml:25:13-37
+105        <uses-library
+105-->[androidx.window:window:1.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/31b0ccf7849fc3d3da9354fb1b61c6ef/transformed/jetified-window-1.2.0/AndroidManifest.xml:26:9-28:40
+106            android:name="androidx.window.sidecar"
+106-->[androidx.window:window:1.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/31b0ccf7849fc3d3da9354fb1b61c6ef/transformed/jetified-window-1.2.0/AndroidManifest.xml:27:13-51
+107            android:required="false" />
+107-->[androidx.window:window:1.2.0] /Users/aoamacsplace/.gradle/caches/transforms-3/31b0ccf7849fc3d3da9354fb1b61c6ef/transformed/jetified-window-1.2.0/AndroidManifest.xml:28:13-37
+108
+109        <provider
+109-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c91ffe4a16fe43a45f29268f023f7ab5/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:24:9-32:20
+110            android:name="androidx.startup.InitializationProvider"
+110-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c91ffe4a16fe43a45f29268f023f7ab5/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:25:13-67
+111            android:authorities="com.monie_estate.androidx-startup"
+111-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c91ffe4a16fe43a45f29268f023f7ab5/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:26:13-68
+112            android:exported="false" >
+112-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c91ffe4a16fe43a45f29268f023f7ab5/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:27:13-37
+113            <meta-data
+113-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c91ffe4a16fe43a45f29268f023f7ab5/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:29:13-31:52
+114                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+114-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c91ffe4a16fe43a45f29268f023f7ab5/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:30:17-78
+115                android:value="androidx.startup" />
+115-->[androidx.lifecycle:lifecycle-process:2.7.0] /Users/aoamacsplace/.gradle/caches/transforms-3/c91ffe4a16fe43a45f29268f023f7ab5/transformed/jetified-lifecycle-process-2.7.0/AndroidManifest.xml:31:17-49
+116            <meta-data
+116-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+117                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+117-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+118                android:value="androidx.startup" />
+118-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+119        </provider>
+120
+121        <receiver
+121-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+122            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+122-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+123            android:directBootAware="false"
+123-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+124            android:enabled="true"
+124-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+125            android:exported="true"
+125-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+126            android:permission="android.permission.DUMP" >
+126-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+127            <intent-filter>
+127-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+128                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+128-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+129            </intent-filter>
+130            <intent-filter>
+130-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+131                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+131-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+132            </intent-filter>
+133            <intent-filter>
+133-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+134                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+134-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+135            </intent-filter>
+136            <intent-filter>
+136-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+137                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+137-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+137-->[androidx.profileinstaller:profileinstaller:1.3.1] /Users/aoamacsplace/.gradle/caches/transforms-3/a8e21b04cfdc67183d44c3413116e40d/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+138            </intent-filter>
+139        </receiver>
+140    </application>
+141
+142</manifest>

@@ -1,0 +1,3 @@
+-keep class **.zego.** { *; }
+-keep class com.facebook.** { *; }
+-dontwarn com.facebook.**

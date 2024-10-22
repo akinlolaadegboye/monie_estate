@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/animator/fragment_open_exit.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/65e2a60c909cfcd6d60e77036c32443c/transformed/fragment-1.7.1/res/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/animator/fragment_fade_exit.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/65e2a60c909cfcd6d60e77036c32443c/transformed/fragment-1.7.1/res/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/animator/fragment_open_enter.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/65e2a60c909cfcd6d60e77036c32443c/transformed/fragment-1.7.1/res/animator/fragment_open_enter.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/animator/fragment_close_enter.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/65e2a60c909cfcd6d60e77036c32443c/transformed/fragment-1.7.1/res/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/animator/fragment_close_exit.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/65e2a60c909cfcd6d60e77036c32443c/transformed/fragment-1.7.1/res/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/animator/fragment_fade_enter.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/65e2a60c909cfcd6d60e77036c32443c/transformed/fragment-1.7.1/res/animator/fragment_fade_enter.xml"
+    }
+]

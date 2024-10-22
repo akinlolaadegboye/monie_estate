@@ -1,0 +1,1 @@
+ /Users/aoamacsplace/StudioProjects/monie_estate/.dart_tool/flutter_build/5015c3b21331aa086abd93c1fe9b7681/native_assets.yaml: 

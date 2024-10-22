@@ -1,0 +1,1 @@
+ /Users/aoamacsplace/StudioProjects/classmigo\ copy/.dart_tool/flutter_build/91169e1a10b5766b77d934f2ab890b4f/native_assets.yaml: 
