@@ -4,6 +4,8 @@ class Strings {
   String offers = 'Offers';
   String buy = 'BUY';
   String rent = 'RENT';
+  String username = 'marina';
+  String locationName = 'Saint Petersburg';
   List<String> propertyNames = [
     'Clifford St',
     'London St',

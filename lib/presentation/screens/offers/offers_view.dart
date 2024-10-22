@@ -8,6 +8,7 @@ import 'package:monie_estate/presentation/screens/offers/widgets.dart';
 import 'package:monie_estate/presentation/values/colors.dart';
 import 'package:monie_estate/presentation/values/edge_insets.dart';
 import 'package:monie_estate/presentation/values/images.dart';
+import 'package:monie_estate/presentation/values/strings.dart';
 import 'package:provider/provider.dart';
 
 class OffersView extends StatefulWidget {
@@ -53,14 +54,14 @@ class _OffersViewState extends State<OffersView> {
         children: [
           Container(
             padding: AppEdgeInsets.screen,
-            child: const Column(
+            child: Column(
               children: [
-                Header(locationName: 'Saint Petersburg', profileImagePath: ImagePaths.profileImage),
-                SizedBox(height: 20),
-                Greetings(username: 'Marina'),
-                SizedBox(height: 20),
-                OfferButtons(buyCount: 1034, rentCount: 2212),
-                SizedBox(height: 5)
+                Header(locationName: Strings().locationName, profileImagePath: ImagePaths.profileImage),
+                const SizedBox(height: 20),
+                Greetings(username: Strings().username),
+                const SizedBox(height: 20),
+                const OfferButtons(buyCount: 1034, rentCount: 2212),
+                const SizedBox(height: 5)
               ],
             ),
           ),
