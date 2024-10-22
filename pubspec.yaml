@@ -1,0 +1,58 @@
+name: monie_estate
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get_it: ^8.0.0
+  provider: ^6.0.4
+  get: ^4.6.5
+  simple_animations: ^5.0.2
+  awesome_snackbar_content:
+  flutter_staggered_grid_view:
+  google_maps_flutter: ^2.1.8
+  flutter_launcher_icons: ^0.13.1
+
+
+dev_dependencies:
+
+
+dependency_overrides:
+  http: ^1.1.0
+
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app-icon.png" #icon created on https://www.icon8.com
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: inter
+      fonts:
+        - asset: assets/fonts/Inter-ExtraLight.ttf
+        - asset: assets/fonts/Inter-ExtraBold.ttf
+        - asset: assets/fonts/Inter-Light.ttf
+        - asset: assets/fonts/Inter-Medium.ttf
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-Thin.ttf
+        - asset: assets/fonts/Inter-SemiBold.ttf
+        - asset: assets/fonts/Inter-Bold.ttf
+
+  assets:
+    - assets/fonts/
+    - assets/images/
+    - assets/icons/
+

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/custom_dialog.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/ime_base_split_test_activity.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/ime_base_split_test_activity.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/notification_template_part_time.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/ime_secondary_split_test_activity.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/ime_secondary_split_test_activity.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/layout/notification_action.xml",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/layout/notification_action.xml"
+    }
+]

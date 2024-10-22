@@ -1,0 +1,4 @@
+#Tue Oct 22 04:15:13 WAT 2024
+base.0=/Users/aoamacsplace/StudioProjects/monie_estate/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

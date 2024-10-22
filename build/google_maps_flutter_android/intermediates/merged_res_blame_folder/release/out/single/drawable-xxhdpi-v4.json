@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/amu_bubble_shadow.9.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/6db1e3715af320f51847402e77569e04/transformed/jetified-android-maps-utils-3.6.0/res/drawable-xxhdpi-v4/amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_video.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_low.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_decline.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxhdpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_answer.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/amu_bubble_mask.9.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/6db1e3715af320f51847402e77569e04/transformed/jetified-android-maps-utils-3.6.0/res/drawable-xxhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/ic_call_decline_low.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/google_maps_flutter_android/intermediates/merged_res/release/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/5771f7041cb42d8582c20c5d0fc6914e/transformed/jetified-play-services-base-18.0.1/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_decline_low.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxxhdpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_low.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxxhdpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_video_low.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxxhdpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxxhdpi-v4/ic_call_answer.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_answer_video.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxxhdpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "/Users/aoamacsplace/StudioProjects/monie_estate/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/drawable-xxxhdpi-v4/ic_call_decline.png",
+        "source": "/Users/aoamacsplace/.gradle/caches/transforms-3/c1cf94f3aa15338622188f42e88c4671/transformed/core-1.13.1/res/drawable-xxxhdpi-v4/ic_call_decline.png"
+    }
+]
